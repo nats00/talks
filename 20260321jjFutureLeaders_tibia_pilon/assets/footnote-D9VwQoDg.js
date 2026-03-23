@@ -1,0 +1,1 @@
+import{o,e as t,i as s}from"./modules/vue-DbZC3hGF.js";import{_ as n,K as _}from"./index-CUYVbmHN.js";const a={class:"footnote"},r={__name:"footnote",setup(c){return _(),(e,p)=>(o(),t("div",a,[s(e.$slots,"default",{},void 0,!0)]))}},l=n(r,[["__scopeId","data-v-c122baae"]]);export{l as _};
