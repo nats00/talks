@@ -1,0 +1,21 @@
+{
+  "name": "slidev-deploy",
+  "version": "1.0.0",
+  "description": "- [2026 Residency Lecture: Orthopedic Urgencies](20260803orthopaedicUrgencies) - [2026 J&J Future Leaders](20260321jjFutureLeaders_tibia_pilon)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nats00/talks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nats00/talks/issues"
+  },
+  "homepage": "https://github.com/nats00/talks#readme"
+}
